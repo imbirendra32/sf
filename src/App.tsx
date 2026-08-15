@@ -21,10 +21,10 @@ import { CountUp } from '@/components/CountUp';
 import { PhoneReveal } from '@/components/PhoneReveal';
 
 const photos = [
-  { src: 'public/1786807351114104855.png', label: 'Sofia and her tiny royal sidekick', tag: '01 · the queen' },
-  { src: 'public/1786807353513507475.png', label: 'A Minecraft moment that got personal', tag: '02 · caught in 4k' },
-  { src: 'public/1786807355889281083.png', label: '3,830 km, but somehow close', tag: '03 · ufa to nepal' },
-  { src: 'public/1786807358081832978.png', label: 'Our very serious Brawl Stars era', tag: '04 · duo queue' },
+  { src: '/1786807351114104855.png', label: 'Sofia and her tiny royal sidekick', tag: '01 · the queen' },
+  { src: '/1786807353513507475.png', label: 'A Minecraft moment that got personal', tag: '02 · caught in 4k' },
+  { src: '/1786807355889281083.png', label: '3,830 km, but somehow close', tag: '03 · ufa to nepal' },
+  { src: '/1786807358081832978.png', label: 'Our very serious Brawl Stars era', tag: '04 · duo queue' },
 ];
 
 const reasons = [
